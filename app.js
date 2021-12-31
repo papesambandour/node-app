@@ -67,3 +67,4 @@ function getPublicIp(){
 getPublicIp();		
 
 module.exports = app;
+//log
